@@ -87,13 +87,7 @@
           </snapshots>
         </repository>
       </repositories>
-     <repositories>
-       <repository>
-         <id>forplay-legacy</id>
-         <url>http://forplay.googlecode.com/svn/mavenrepo</url>
-       </repository>
-     </repositories>
-      <pluginRepositories>
+     <pluginRepositories>
         <pluginRepository>
           <id>jboss-earlyaccess-plugin-repository</id>
           <url>http://maven.repository.redhat.com/earlyaccess/all/</url>
